@@ -1,0 +1,33 @@
+.SVL {
+    color:blue;
+    text-decoration: none;
+}
+.SV {
+    text-align: end;
+    font-size: small;
+}
+.SVL:hover {
+    text-decoration: underline;
+}
+.SVL:visited {
+    color:blueviolet;
+} 
+.Nizhge {
+    font-size: small;
+}
+
+.container {
+    display: flex;
+}
+
+.inner-div2 {
+    width: 2000px;
+    margin: 10px;
+  }
+  .inner-div3 {
+    width: 1000px;
+    margin: 10px;
+  }
+  .Leha {
+    background-color: violet;
+  }
